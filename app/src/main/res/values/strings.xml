@@ -1,3 +1,277 @@
 <resources>
-    <string name="app_name">MAD_lab</string>
+    <string name="app_name">SnapLeaf</string>
+
+    <string name="Apple_Scab">Apple Scab </string>
+    <string name="Apple_Scab_Symptomps">Symptoms : Symptoms on fruit are similar to those found on leaves. Scabby spots are sunken and tan and may have velvety spores in the center. As these spots mature, they become larger and turn brown and corky. Infected fruit becomes distorted and may crack allowing entry of secondary organisms. Severely affected fruit may drop, especially when young.</string>
+    <string name="Apple_Scab_Treatment">Treatment
+1.	Choose resistant varieties when possible.
+2.	Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring.
+3.	Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur.
+4.	Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores.
+5.	For best control, spray liquid copper soap early, two weeks before symptoms normally appear. Alternatively, begin applications when disease first appears, and repeat at 7 to 10-day intervals up to blossom drop.
+</string>
+
+    <string name="Apple_Black_Rot">Apple Black Rot</string>
+    <string name="Apple_Black_Rot_Symptomps">symptoms: Early symptoms are often limited to leaf symptoms such as purple spots on upper leaf surfaces. As these spots age, the margins remain purple, but the centers dry out and turn yellow to brown. Over time, the spots expand and heavily infected leaves drop from the tree. Infected branches or limbs will show characteristic red-brown sunken areas that expand each year.</string>
+    <string name="Apple_Black_Rot_Treatment">Treatment: Treating black rot on apple trees starts with sanitation. Because fungal spores overwinter on fallen leaves, mummified fruits, dead bark and cankers, it’s important to keep all the fallen debris and dead fruit cleaned up and away from the tree. During the winter, check for red cankers and remove them by cutting them out or pruning away the affected limbs at least six inches beyond the wound. Destroy all infected tissue immediately and keep a watchful eye out for new signs of infection. </string>
+
+    <string name="Apple_Cedar_Rust">Apple Cedar Rust </string>
+    <string name="Apple_Cedar_Rust_Symptomps">Symptoms : On the apple tree, the infections occur on leaves, fruit and young twigs.[2] The brightly colored spots produced on the leaves make it easy to identify. Small, pale yellow spots appear on the upper surfaces of the leaves, usually during late April or May on the eastern seaboard of the United States. These spots gradually enlarge and turn orange or red and may show concentric rings of color. Drops of orange liquid may be visible on the spots. Later in the season, black dots appear on the orange spots on the upper leaf surface. In late summer, tube-like structures develop on the undersurface of the apple leaf. Infected leaves sometimes drop prematurely, particularly during drought conditions or when the tree is under additional stress. Infections on fruit are usually near the blossom end and are somewhat similar to the leaf lesions.</string>
+    <string name="Apple_Cedar_Rust_Treatment">Treatment
+1.	Choose resistant cultivars when available.
+2.	Rake up and dispose of fallen leaves and other debris from under trees.
+3.	Remove galls from infected junipers. In some cases, juniper plants should be removed entirely.
+4.	Apply preventative, disease-fighting fungicides labeled for use on apples weekly, starting with bud break, to protect trees from spores being released by the juniper host. This occurs only once per year, so additional applications after this springtime spread are not necessary.
+5.	On juniper, rust can be controlled by spraying plants with a copper solution (0.5 to 2.0 oz/ gallon of water) at least four times between late August and late October.
+</string>
+
+    <string name="Cherry_powder_mildow">Cherry powder mildow </string>
+    <string name="Cherry_powder_mildow_Symptomps">Symptoms: Initial symptoms, often occurring 7 to 10 days after the onset of the first irrigation, are light roughly-circular, powdery looking patches on young, susceptible leaves (newly unfolded, and light green expanding leaves). Older leaves develop an age-related (ontogenic) resistance to powdery mildew and are naturally more resistant to infection than younger leaves. Look for early leaf infections on root suckers, the interior of the canopy or the crotch of the tree where humidity is high. In contrast to other fungi, powdery mildews do not need free water to germinate but germination and fungal growth are favored by high humidity (Grove and Boal, 1991a). The disease is more likely to initiate on the undersides (abaxial) of leaves (Fig. 2) but will occur on both sides at later stages. As the season progresses and infection is spread by wind, leaves may become distorted, curling upward. Severe infections may cause leaves to pucker and twist. Newly developed leaves on new shoots become progressively smaller, are often pale and may be distorted.</string>
+    <string name="Cherry_powder_mildow_Treatment">Treatment
+1.	Plant resistant cultivars in sunny locations whenever possible.
+2.	Prune or stake plants to improve air circulation. Make sure to disinfect your pruning tools (one-part bleach to 4 parts water) after each cut.
+3.	Remove diseased foliage from the plant and clean up fallen debris on the ground.
+4.	Use a thick layer of mulch or organic compost to cover the soil after you have raked and cleaned it well. Mulch will prevent the disease spores from splashing back up onto the leaves.
+5.	Milk sprays, made with 40% milk and 60% water, are an effective home remedy for use on a wide range of plants. For best results, spray plant leaves as a preventative measure every 10-14 days.
+ </string>
+
+    <string name="Corn_grey_leaf_spot">Corn Grey Leaf Spot </string>
+    <string name="Corn_grey_leaf_spot_Symptomps">Symptoms :
+•	Gray leaf spot lesions begin as small necrotic pinpoints with chlorotic halos, these are more visible when leaves are backlit.
+•	Coloration of initial lesions can range from tan to brown before sporulation begins.
+•	Because early lesions are ambiguous, they are easily confused with other foliar diseases such as anthracnose leaf blight, eyespot, or common rust.
+•	As infection progresses, lesions begin to take on a more distinct shape.
+•	Lesion expansion is limited by parallel leaf veins, resulting in the blocky shaped “spots”.
+•	As sporulation commences, the lesions take on a more gray coloration.
+•	Entire leaves can be killed when weather conditions are favorable, and rapid disease progression causes lesions to merge.
+</string>
+    <string name="Corn_grey_leaf_spot_Treatment">Treatment:
+1.	Crop rotation away from corn can reduce disease pressure, but multiple years may be necessary in no-till scenarios.
+2.	Planting hybrids with a high level of genetic resistance can help reduce the risk of yield loss due to gray leaf spot infection.
+3.	During the growing season, foliar fungicides can be used to manage gray leaf spot outbreaks.
+4.	Farmers must consider the cost of the application and market value of their corn before determining if fungicides will be an economical solution to GLS
+5.	Tillage, the turning of corn residues, is beneficial in reducing pathogen survival and inoculum for the succeeding corn crop.
+ </string>
+
+    <string name="Corn_common_rust">Corn Common Rust </string>
+    <string name="Corn_common_rust_Symptomps">Symptoms: Although a few rust pustules can always be found in corn fields throughout the growing season, symptoms generally do not appear until after tasseling. These can be easily recognized and distinguished from other diseases by the development of dark, reddish-brown pustules (uredinia) scattered over both the upper and lower surfaces of the corn leaves . These pustules may appear on any above ground part of the plant, but are most abundant on the leaves. Pustules appear oval to elongate in shape, are generally small, less than 1/4-inch-long, and are surrounded by the leaf epidermal layer, where it has broken through. If infections occur while the leaves are still in the whorl, these pustules may develop in bands across the surface as the leaf expands in size.</string>
+    <string name="Corn_common_rust_Treatment">Treatment: To reduce the incidence of corn rust, plant only corn that has resistance to the fungus. Resistance is either in the form of race-specific resistance or partial rust resistance. In either case, no sweet corn is completely resistant. If the corn begins to show symptoms of infection, immediately spray with a fungicide. The fungicide is most effective when started at the first sign of infection</string>
+
+    <string name="Corn_northern_leaf_blight">Corn Northern Leaf Blight</string>
+    <string name="Corn_northern_leaf_blight_Symptomps">Symptoms:
+•	Early northern corn leaf blight lesions are gray-green and elliptical, beginning 1 to 2 weeks after infection.
+•	In a susceptible reaction, fungal sporulation will begin within a few days.
+•	Northern corn leaf blight lesions become pale gray to tan as they enlarge to 1 to 6 inches or longer.
+•	Distinct cigar-shaped lesions unrestricted by leaf veins make northern corn leaf blight (NCLB) one of the easiest diseases to identify.
+•	Under moist conditions, lesions produce dark gray spores, usually on the lower leaf surface, giving the lesions a "dirty" appearance.
+•	As many lesions enlarge and coalesce, entire leaves or leaf areas may be covered.
+•	Heavy blighting and lesion coalescence give leaves a gray/burned appearance.
+</string>
+    <string name="Corn_northern_leaf_blight_Treatment">Treatment: Control of this disease is often focused on management and prevention. First, choose corn varieties or hybrids that are resistant or at least have moderate resistance to northern corn leaf blight. When you grow corn, make sure it does not stay wet for long periods of time. The fungus that causes this infection needs between six and 18 hours of leaf wetness to develop. Plant corn with enough space for airflow and water in the morning so leaves can dry throughout the day. The fungus overwinters in plant material, so it is also important to manage infected plants. Tilling the corn into the soil is one strategy, but with a small garden it may make more sense to just remove and destroy the affected plants. Treating northern corn leaf blight involves using fungicides. For most home gardeners this step isn’t needed, but if you have a bad infection, you may want to try this chemical treatment. The infection usually begins around the time of silking, and this is when the fungicide should be applied. </string>
+
+    <string name="Grape_black_rot">Grape Black Rot</string>
+    <string name="Grape_black_rot_Symptomps">Symptoms: Relatively small, brown circular lesions develop on infected leaves and within a few days tiny black spherical fruiting bodies (pycnidia) protrude from them. Elongated black lesions on the petiole may eventually girdle these organs, causing the affected leaves to wilt. Shoot infection results in large black elliptical lesions. These lesions may contribute to breakage of shoots by wind, or in severe cases, may girdle and kill young shoots altogether. This fungus bides its time. Most plants show very little signs of infection until its too late. They will look very healthy until fruit sets. Even flowering will be normal.
+Infection of the fruit is the most serious phase of the disease and may result in substantial economic loss. Infected berries first appear light or chocolate brown; it will have a spot that looks very round, like the eye of a bird. That spot will get larger and infect more of the fruit bunch and more of the plant. This creates masses of black pycnidia developing on the surface. Finally, infected berries shrivel and turn into hard black raisin-like bodies that are called mummies.
+</string>
+    <string name="Grape_black_rot_Treatment">Treatment: Grape black rot is difficult to stop once it has taken hold of growing fruit. Many gardeners would consider this year’s crop a lost cause and work toward preventing a recurrence of disease. The best time to treat black rot of grapes is between bud break until about four weeks after bloom; treating outside of this window is likely to end in frustration. However, if you want to try, captan and myclobutanil are the fungicides of choice. Prevention is key when dealing with grape black rot. During your fall clean-up, make sure that all mummies have been removed from the vine and all plant material on the ground below is destroyed. Prune out any and all areas with lesions, grapevines can handle a severe pruning — when in doubt, cut it out.</string>
+
+    <string name="Grape_Black_Measles">Grape Black Measles </string>
+    <string name="Grape_Black_Measles_Symptomps">Symptoms: Grapevine measles, also called esca, black measles or Spanish measles, has long plagued grape growers with its cryptic expression of symptoms and, for a long time, a lack of identifiable causal organism(s). The name ‘measles’ refers to the superficial spots found on the fruit (Fig. 1). During the season, the spots may coalesce over the skin surface, making berries black in appearance. Spotting can develop anytime between fruit set and a few days prior to harvest. Berries affected at fruit set tend not to mature and will shrivel and dry up. In addition to spotting, fruit affected later in the season will also have an acrid taste. Leaf symptoms are characterized by a ‘tiger stripe’ pattern.</string>
+    <string name="Grape_Black_Measles_Treatment">Treatment: Presently, there are no effective management strategies for measles. Wine grape growers with small vineyards will often have field crews remove infected fruit prior to harvest. Raisins affected by measles will be discarded during harvest or at the packing house, while table grape growers will leave affected fruit on the vine. Current research is focused on protecting pruning wounds from fungal infections to minimize suspect fungi from colonizing fresh wounds.</string>
+
+    <string name="Orange_Haunglongbing_Citus_Greening_Disease">Orange Haunglongbing Citus Greening Disease</string>
+    <string name="Orange_Haunglongbing_Citus_Greening_Disease_Symptomps">Symptoms : HLB is distinguished by the common symptoms of yellowing of the veins and adjacent tissues; followed by splotchy mottling of the entire leaf, premature defoliation, dieback of twigs, decay of feeder rootlets and lateral roots, and decline in vigor, ultimately followed by the death of the entire plant. Affected trees have stunted growth, bear multiple off-season flowers (most of which fall off), and produce small, irregularly shaped fruit with a thick, pale peel that remains green at the bottom and tastes very bitter. Common symptoms can often be mistaken for nutrient deficiencies; however, the distinguishing factor between nutrient deficiencies is the pattern of symmetry. Nutrient deficiencies tend to be symmetrical along the leaf vein margin, while HLB has an asymmetrical yellowing around the vein. The most noticeable symptom of HLB is greening and stunting of the fruit, especially after ripening.</string>
+    <string name="Orange_Haunglongbing_Citus_Greening_Disease_Treatment">Treatment: There is no cure for citrus greening, which explains why spotting citrus greening disease symptoms early is so crucial — rapid removal of infected trees is the only way to stop the spread of the bacteria responsible. Since infected trees will never again produce useful fruits, they only serve as a reservoir for this economically dangerous disease. Plants affected by citrus greening include all the common citrus fruit trees, like oranges, limes and lemons, as well as ornamentals like orange jasmine, jackfruit and limeberry. Orange jasmine has been implicated in Florida as a means of transportation between nurseries for Asian citrus psyllids, since it is a favorite of this pest. You may be able to prevent citrus greening by erecting a screen house around known, disease-free citrus trees, but psyllids are small, often no more than 1/8 inch long, so your screen must be tightly woven. Insecticides can be highly toxic to the bees that pollinate citrus, but if you live in one of the many citrus greening quarantine zones, it may be useful to treat your citrus tree’s leaves with chlorantraniliprole, spinetoram, dimethoate or formetanate.</string>
+
+    <string name="Peach_Bacterial_Spot">Peach Bacterial Spot </string>
+    <string name="Peach_Bacterial_Spot_Symptomps">Symptoms: The most characteristic sign of peach tree leaf spot are angular purple to purple-brown spots on foliage, followed by the center of lesion falling out, giving the leaves a “shot hole” appearance. Leaves soon turn yellow and drop. Fruit has small water-soaked markings that enlarge and merge to eventually cover large areas. Cracking or pitting occurs along the lesions as the fruit grows, enabling brown rot fungus to infiltrate the fruit. Bacterial leaf spot also affects current season growth. Two types of cankers can be spotted on twigs.</string>
+    <string name="Peach_Bacterial_Spot_Treatment">Treatment: Some varieties of peach are more susceptible to leaf spot but all can be infected. The most vulnerable cultivars are: ‘Autumnglo’ ‘Autumn Lady’ ‘Blake’ ‘Elberta’ ‘Halehaven’ ‘July Elberta’ There are, however, more resistant peach varieties. Bacterial spot resistant peaches include: ‘Belle of Georgia’ ‘Biscoe’ ‘Candor’ ‘Comanche’ ’Dixired’ ‘Earliglo’ ‘Early-Free Red’ ‘Emery’ ‘Encore’ ‘Garnet Beauty’ ‘Harbelle’ ‘Harbinger’ ‘Harbrite’ ‘Harken’ ‘Late Sunhave’ ‘Loring’ ‘Madison’ ‘Norman’ ‘Ranger’ ‘Redhacen’ ‘Redkist’ ‘Redskin’ ’Sentinel’ ’Sunhaven’.</string>
+
+    <string name="Pepper_Bell_Bacterial_Spot">Pepper Bell Bacterial Spot </string>
+    <string name="Pepper_Bell_Bacterial_Spot_Symptomps">Symptoms: Necrotic spots may appear on leaves, stems, and fruits. Leaf symptoms appear first on the undersides of leaves as small water-soaked areas. These spots enlarge up to 1/4 inch in diameter, turn dark brown, and are slightly raised. On the upper leaf surface, the spots are depressed with a brown border around a beige center. Several lesions may coalesce, resulting in large necrotic areas, and large numbers of lesions can occur on leaf margins and tips where moisture accumulates. Eventually the leaves yellow and drop off, increasing the chance for sunscald. Spots on fruits become raised, scablike areas that make the product unmarketable</string>
+    <string name="Pepper_Bell_Bacterial_Spot_Treatment">Treatment:
+Use disease-free seed that has been produced in western states or seed that has been hot water treated. One infested seed in 10,000 may easily result in 100% diseased plants in the field under proper conditions.
+(2) Purchase only certified disease-free transplants.
+(3) Practice crop rotation. Use at least 1-year rotation between tomato or pepper crops with nonhost crops.
+(4) For plant beds and flats in the greenhouse, keep the house as dry as possible and avoid splashing water. Spray with fixed coppers (i.e., tribasic copper sulfate and copper hydroxide), alone or in combination with 200 ppm streptomycin (11b/100 gal water in the copper spray), with the addition of spreader-sticker to improve the effectiveness of the spray. Streptomycin cannot be used in the field. Start field treatment as soon as disease appears, using a fixed copper plus maneb 80 WP or maneb plus zinc product to prevent secondary spread of the bacterium. The combination of copper and maneb has been shown to be more effective in controlling strains of the organism that are either sensitive or tolerant to copper alone. (See Cornell Recommendations for Commercial Vegetable Production for specific rates.) Adjust spray schedules according to the weather conditions. Copper fungicides may help to reduce secondary spread, but their effectiveness is limited by rainfall and dew formation
+ </string>
+
+    <string name="Potato_Early_blight">Potato Early Blight </string>
+    <string name="Potato_Early_blight_Symptomps">Symptoms of early blight occur on fruit, stem and foliage of tomatoes and stem, foliage and tubers of potatoes.  Initial symptoms on leaves appear as small 1-2 mm black or brown lesions and under conducive environmental conditions the lesions will enlarge and are often surrounded by a yellow halo (Figures 2 and 3). Lesions greater than 10 mm in diameter often have dark pigmented concentric rings.  This so-called “bullseye” type lesion is highly characteristic of early blight (Figure 4). As lesions expand and new lesions develop entire leaves may turn chlorotic and dehisce, leading to significant defoliation.  Lesions occurring on stems are often sunken and lens-shaped with a light center, and  have the typical concentric rings (Figure 5). On young tomato seedlings lesions may completely girdle the stem, a phase of the disease known as “collar rot,” which may lead to  reduced plant vigor or death.</string>
+    <string name="Potato_Early_blight_Treatment">Treatment
+1.	Prune or stake plants to improve air circulation and reduce fungal problems.
+2.	Make sure to disinfect your pruning shears (one part bleach to 4 parts water) after each cut.
+3.	Keep the soil under plants clean and free of garden debris. Add a layer of organic compost to prevent the spores from splashing back up onto vegetation.
+4.	Drip irrigation and soaker hoses can be used to help keep the foliage dry.
+5.	For best control, apply copper-based fungicides early, two weeks before disease normally appears or when weather forecasts predict a long period of wet weather. Alternatively, begin treatment when disease first appears, and repeat every 7-10 days for as long as needed.
+ </string>
+
+    <string name="Potato_late_blight">Potato late blight</string>
+    <string name="Potato_late_blight_Symptomps">Symptoms: Late blight of potato is identified by blackish/brown lesions on leaves and stems (Figures 3,4) that may be small at first and appear water-soaked or have chlorotic borders but expand rapidly and the entire leaf becomes become necrotic. In humid conditions, P. infestans produces sporangia and sporangiophores on the surface of infected tissue and the resulting white sporulation can be seen at the margins of lesions on abaxial (lower) surfaces of leaves (Figures 5). As many lesions accumulate, the entire plant can be destroyed in a matter of days after the first lesions are observed if the appropriate fungicide applications are not used</string>
+    <string name="Potato_late_blight_Treatment">Treatment
+1.	Plant resistant cultivars when available.
+2.	Remove volunteers from the garden prior to planting and space plants far enough apart to allow for plenty of air circulation.
+3.	Water in the early morning hours, or use soaker hoses, to give plants time to dry out during the day — avoid overhead irrigation.
+4.	Destroy all potato debris after harvest (see Fall Garden Cleanup).
+ </string>
+
+    <string name="Squash_powdery_mildew">Squash powdery mildew</string>
+    <string name="Squash_powdery_mildew_Symptomps">Symptoms: The first sign of powdery mildew is pale yellow leaf spots.White powdery spots can form on both upper and lower leaf surfaces, and quickly expand into large blotches. The large blotches can cover entire leaf, petiole and stem surfaces.When powdery mildew infects the majority of the foliage, the plant weakens and the fruit ripens prematurely.</string>
+    <string name="Squash_powdery_mildew_Treatment">Treatment:
+• Plant varieties with complete or partial resistance to powdery mildew.
+• Apply fertilizer based on soil test results. Avoid over-applying nitrogen.
+• Provide good air movement around plants through proper spacing, staking of plants and weed control.
+• Once a week, examine five mature leaves for powdery mildew infection. In large plantings, repeat at 10 different locations in the field.
+• If susceptible varieties are growing in an area where powdery mildew has resulted in yield loss in the past, fungicide may be necessary. Apply fungicides after finding the first spot of powdery mildew.
+ </string>
+
+    <string name="strawberry_leaf_scorch">Strawberry Leaf Scorch </string>
+    <string name="strawberry_leaf_scorch_Symptomps">Symptoms: Leaf scorch symptoms are very similar to the early stages of common (Mycosphaerella) leaf spot, with irregular dark purple spots being scattered over the upper leaf surface. As the spots enlarge, they begin to look like drops of tar, and are actually the accumulations of black fruiting bodies (acervuli) of the fungus. The centers of the spots remain purple (in Mycosphaerella leaf spot they are white) and there is no well-defined lesion border. In heavy infections, these regions coalesce and the tissue between the lesions often takes on a purplish to bright red color that is dependent on cultivar, temperature, or other factors. The leaves eventually turn brown, dry up, and curl at the margins giving the leaf a scorched appearance.</string>
+    <string name="strawberry_leaf_scorch_Treatment">Treatment: While leaf scorch on strawberry plants can be frustrating, there are some strategies which home gardeners may employ to help prevent its spread in the garden. The primary means of strawberry leaf scorch control should always be prevention. Since this fungal pathogen over winters on the fallen leaves of infect plants, proper garden sanitation is key. This includes the removal of infected garden debris from the strawberry patch, as well as the frequent establishment of new strawberry transplants. The creation of new plantings and strawberry patches is key to maintaining a consistent strawberry harvest, as older plants are more likely to show signs of severe infection. When making new plantings, always ensure that good planting practices are implemented. These practices include the use of proper plant spacing to provide adequate air circulation, and the use of drip irrigation. The avoidance of waterlogged soil and frequent garden cleanup will help to reduce the likelihood of spread of this fungus. </string>
+
+    <string name="Tomato_bacterial_spot">Tomato bacterial spot </string>
+    <string name="Tomato_bacterial_spot_Symptomps">Symptoms: On tomato, leaf lesions are initially circular and water-soaked and may be surrounded by a faint yellow halo. In general, spots are dark brown to black and circular on leaves and stems. Spots rarely develop to more than 3 mm in diameter. Lesions can coalesce causing a blighted appearance of leaves and a general yellowing may occur on leaves with multiple lesions. Infected pepper leaves drop prematurely; this exposes fruit to the sun and results in sun scalding. Fruit lesions begin as small, slightly raised blisters, which become dark brown, scab-like, and can appear slightly raised as they increase in size.</string>
+    <string name="Tomato_bacterial_spot_Treatment">Treatment: Purchase high quality, certified disease free seed if possible. Hot water treatment can be used to kill bacteria on and in seed. For growers producing their own seedlings, avoid over-watering and handle plants as little as possible. Disinfect greenhouses, tools, and equipment between seedling crops with a commercial sanitizer. Pesticides are available to protect tomatoes and pepper from bacterial spot. Applications should be made when environmental conditions favor disease to be the most effective and repeated according to label instructions. </string>
+
+    <string name="Tomato_early_blight">Tomato early blight </string>
+    <string name="Tomato_early_blight_Symptomps">Symptoms: Dark, concentric spots (brown to black), ¼ - ½” in diameter, form on lower leaves and stems. Early blight is marked by tell-tale rings. Fruit can also be affected; spots often begin near stem of fruit Lower leaves turn yellow and drop.</string>
+    <string name="Tomato_early_blight_Treatment">•	Treatment: The best control measure for tomato blight is prevention (see below).
+•	Remove and destroy infected leaves (be sure to wash your hands afterwards).
+•	Once blight is present and progresses, it becomes more resistant to biofungicide and fungicide. Treat it as soon as possible and on a schedule.
+•	Organic fungicides. Treat organically with copper spray, which you can purchase online, at the hardware store, or home improvement center. Follow label directions. You can apply until the leaves are dripping, once a week and after each rain. Or you can treat it organically with a biofungicide like Serenade. Follow label instructions.
+•	Chemical fungicides. Some gardeners prefer chemical fungicides, the best of which for tomatoes is chlorothalonil (sold as Fungonil, Daconil, or under other brand names. Check labels. You may also choose Mancozeb or Maneb, although these have longer wait times before you can harvest tomatoes safely than does chlorothalonil.
+</string>
+
+    <string name="Tomato_late_blight">Tomato late blight </string>
+    <string name="Tomato_late_blight_Symptomps">Symptoms: Tomato plants are susceptible to late blight, and the foliar symptoms are similar to those on potato. Like potato, infected tomato plants  may be rapidly infected and destroyed by P. infestans. White sporulation (sporangia and sporangiophores) )may be visible in humid weather. The pathogen may also spread in stems and in tomato transplants and. A large epidemic in 2009 in the US was caused by spread of the pathogen on infected tomato transplants (Hu et al., 2011).</string>
+    <string name="Tomato_late_blight_Treatment">Treatment:
+1.	Plant resistant cultivars when available.
+2.	Remove volunteers from the garden prior to planting and space plants far enough apart to allow for plenty of air circulation.
+3.	Water in the early morning hours, or use soaker hoses, to give plants time to dry out during the day — avoid overhead irrigation.
+4.	Destroy all tomato debris after harvest (see Fall Garden Cleanup).
+ </string>
+
+    <string name="Tomato_leaf_mold">Tomato leaf mold </string>
+    <string name="Tomato_leaf_mold_Symptomps"> Symptoms: The symptoms of this disease commonly occurs on foliage, and it develops on both sides of the leaf on the adaxial and abaxial surface. The older leaves are infected first and then the disease moves up towards young leaves Symptoms of tomato leaf mold appear usually with foliage, but fruit infection is rare. The primary symptom appear on the upper surface of infected leaves as a small spot pale green or yellowish with indefinite margins, and on corresponding area of the lower surface, the fungus begins to sporulate. The diagnostic symptom develops on lower surface as an olive green to grayish purple and velvety appearance, which are composed of spores (conidia).  Continuously, the color of the infected leaf changes to yellowish brown and the leaf begins to curl and dry. The leaves will drop upon reaching a premature stage, and the defoliation of the infected host will cause further infection. This disease develops well in relative humidity levels above 85%. When the temperature reaches optimum level for germinating, the host will be infected by the pathogen. Occasionally, this pathogen causes disease on the fruit or blossoms with various symptoms. Fruits such as green and ripe one will develop dark rot on the stem. The blossoms will be killed before fruits grow. </string>
+    <string name="Tomato_leaf_mold_Treatment">Treatment:
+•  Although varieties designated as resistant to leaf mold can be found in many seed catalogs, these may or may not be effective in reducing disease in Minnesota.
+•  Resistant varieties should be used in combination with cultural control practices as part of an integrated disease management program.
+•  Use drip irrigation and avoid watering foliage.
+•  Space plants to provide good air movement between rows and individual plants.
+•  Stake, string or prune to increase airflow in and around the plant.
+</string>
+
+    <string name="Tomato_Septoria_leaf_spot">Tomato Septoria_leaf spot </string>
+    <string name="Tomato_Septoria_leaf_spot_Symptomps">Symptoms: Septoria leaf spot usually appears on the lower leaves after the first fruit sets. Spots are circular, about 1/16 to 1/4 inch in diameter with dark brown margins and tan to gray centers with small black fruiting structures. Characteristically, there are many spots per leaf. This disease spreads upwards from oldest to youngest growth. If leaf lesions are numerous, the leaves turn slightly yellow, then brown, and then wither. Fruit infection is rare.</string>
+    <string name="Tomato_Septoria_leaf_spot_Treatment">Treatment
+•	 Removing infected leaves.  Remove infected leaves immediately, and be sure to wash your hands thoroughly before working with uninfected plants.
+•	Consider organic fungicide options. Fungicides containing either copper or potassium bicarbonate will help prevent the spreading of the disease. Begin spraying as soon as the first symptoms appear and follow the label directions for continued management.
+•	Consider chemical fungicides. While chemical options are not ideal, they may be the only option for controlling advanced infections. One of the least toxic and most effective is chlorothalonil (sold under the names Fungonil and Daconil).
+</string>
+
+    <string name="Tomato_Spider_mites_Two_spotted_spider_mite">Tomato Spider mites Two-spotted spider mite </string>
+    <string name="Tomato_Spider_mites_Two_spotted_spider_mite_Symptomps">Symptoms: Use a hand-lens to directly study the infected parts and ascertain the number of living individuals per leaf where possible as a measure of population pressure. In an outbreak situation, spider mites could easily exceed more than 40 mites per leaf on vegetable crops. This pest feeds on individual plant cells and causes damage at an astonishing speed when uncontrolled. By the time producers detect an outbreak, spider mites could have already completed several generations.Due to extensive spider mite feeding, the upper side of tomato leaves may get a speckled appearance or the entire leaf may turn yellow and die. </string>
+    <string name="Tomato_Spider_mites_Two_spotted_spider_mite_Treatment">Treatment
+•	Avoid weedy fields and do not plant eggplant adjacent to legume forage crops.
+•	Avoid early season, broad-spectrum insecticide applications for other pests.
+•	Do not over-fertilize.
+•	Overhead irrigation or prolonged periods of rain can help reduce populations.
+ </string>
+
+    <string name="Tomato_Target_Spot">Tomato Target Spot </string>
+    <string name="Tomato_Target_Spot_Symptomps">Symptoms: Dark, concentric spots (brown to black), ¼ - ½” in diameter, form on lower leaves and stems. Early blight is marked by tell-tale rings. Fruit can also be affected; spots often begin near stem of fruit Lower leaves turn yellow and drop.</string>
+    <string name="Tomato_Target_Spot_Treatment">•	Treatment: The best control measure for tomato blight is prevention (see below).
+•	Remove and destroy infected leaves (be sure to wash your hands afterwards).
+•	Once blight is present and progresses, it becomes more resistant to biofungicide and fungicide. Treat it as soon as possible and on a schedule.
+•	Organic fungicides. Treat organically with copper spray, which you can purchase online, at the hardware store, or home improvement center. Follow label directions. You can apply until the leaves are dripping, once a week and after each rain. Or you can treat it organically with a biofungicide like Serenade. Follow label instructions.
+•	Chemical fungicides. Some gardeners prefer chemical fungicides, the best of which for tomatoes is chlorothalonil (sold as Fungonil, Daconil, or under other brand names. Check labels. You may also choose Mancozeb or Maneb, although these have longer wait times before you can harvest tomatoes safely than does chlorothalonil.
+ </string>
+
+    <string name="Tomato_mosaic_virus">Tomato mosaic virus </string>
+    <string name="Tomato_mosaic_virus_Symptomps">Symptoms
+The foliage of affected tomato plants shows mottling, with alternating yellowish and darker green areas, the latter often appearing thicker and raised giving a blister-like appearance. The leaves tend to be fern-like in appearance with pointed tips and younger leaves may be twisted. The fruit may be distorted, yellow blotches and necrotic spots may occur on both ripe and green fruit and there may be internal browning of the fruit wall. In young plants, the infection reduces the set of fruit and may cause distortions and blemishes. The entire plant may be dwarfed and the flowers discoloured. Environmental conditions influence the symptoms. These include temperature, day length and light intensity as well as the variety, the age of the plant at infection and the virulence of the strain of ToMV.
+</string>
+    <string name="Tomato_mosaic_virus_Treatment">Treatment:
+•  Use certified disease-free seed or treat your own seed.
+•	Soak seeds in a 10% solution of trisodium phosphate (Na3PO4) for at least 15 minutes.
+•	Or heat dry seeds to 158 °F and hold them at that temperature for two to four days.
+•  Purchase transplants only from reputable sources. Ask about the sanitation procedures they use to prevent disease.
+•  Inspect transplants prior to purchase. Choose only transplants showing no clear symptoms.
+•  Avoid planting in fields where tomato root debris is present, as the virus can survive long-term in roots.
+•  Wash hands with soap and water before and during the handling of plants to reduce potential spread between plants.
+ </string>
+
+    <string name="Tomato_yellow_leaf_curl_virus">Tomato yellow leaf curl virus </string>
+    <string name="Tomato_yellow_leaf_curl_virus_Symptomps">Symptoms: symptoms for this disease in tomato are yellow (chlorotic) leaf edges, upward leaf cupping, leaf mottling, reduced leaf size, and flower drop. TYLCV can have a severe impact on tomato production. Plants infected at an early stage won\'t bear fruit and their growth will be severely stunted.</string>
+    <string name="Tomato_yellow_leaf_curl_virus_Treatment">Treatment:
+• symptomatic plants should be carefully covered by a clear or black plastic bag and tied at the stem at soil line. Cut off the plant below the bag and allow bag with plant and whiteflies to desiccate to death on the soil surface for 1-2 days prior to placing the plant in the trash. Do not cut the plant off or pull it out of the garden and toss it on the compost! The goal is to remove the plant reservoir of virus from the garden and to trap the existing virus-bearing whiteflies so they do not disperse onto other tomatoes.
+• If symptomatic plants have no obvious whiteflies on the lower leaf surface, these plants can be cut from the garden and BURIED in the compost.
+• Although the silverlef whitefly feeds on more than 500 plants, some of its more favorite vegetable hosts other than tomatoes include the squash and cucumber family of plants, okra, beans, peanuts and eggplant. Favorite landscape plants include hibiscus, poinsettia, Gerbera daisy and many bedding plants.
+ </string>
+
+
+    <string name="apple_healthy">Apple_healthy </string>
+    <string name="apple_healthy_Symptomps">Healthy Apple </string>
+    <string name="apple_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="blueberry_healthy">Blueberry healthy </string>
+    <string name="blueberry_healthy_Symptomps">Healthy blueberry </string>
+    <string name="blueberry_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="cherry_including_sour_healthy">cherry including sour healthy </string>
+    <string name="cherry_including_sour_healthy_Symptomps">Healthy cherry including sour </string>
+    <string name="cherry_including_sour_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="corn_maize_healthy">corn maize healthy </string>
+    <string name="corn_maize_healthy_Symptomps">Healthy corn maize </string>
+    <string name="corn_maize_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="grape_healthy">grape healthy </string>
+    <string name="grape_healthy_Symptomps">Healthy grape </string>
+    <string name="grape_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="peach_healthy">peach healthy</string>
+    <string name="peach_healthy_Symptomps">Healthy peach </string>
+    <string name="peach_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="potato_healthy">potato healthy </string>
+    <string name="potato_healthy_Symptomps">Healthy potato </string>
+    <string name="potato_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="raspberry_healthy">raspberry healthy </string>
+    <string name="raspberry_healthy_Symptomps">Healthy raspberry </string>
+    <string name="raspberry_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="soybean_healthy">Apple soybean </string>
+    <string name="soybean_healthy_Symptomps">Healthy soybean </string>
+    <string name="soybean_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="strawberry_healthy">strawberry healthy </string>
+    <string name="strawberry_healthy_Symptomps">Healthy strawberry </string>
+    <string name="strawberry_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="tomato_healthy">tomato healthy </string>
+    <string name="tomato_healthy_Symptomps">Healthy tomato </string>
+    <string name="tomato_healthy_Treatment"> No Treatment Needed</string>
+
+    <string name="background">Background</string>
+    <string name="background_Symptomps">Its a background</string>
+    <string name="background_Treatment"> No Treatment Needed</string>
+
+    <string name="grape_leaf_blight_isariopsis_leaf_spot">grape leaf blight isariopsis leaf spot </string>
+    <string name="grape_leaf_blight_isariopsis_leaf_spot_Symptomps">symptoms
+
+    The fungus is an obligate pathogen which can attack all green parts of the vine.
+    Symptoms of this disease are frequently confused with those of powdery mildew. Infected leaves develop pale yellow-green lesions which gradually turn brown. Severely infected leaves often drop prematurely.
+    Infected petioles, tendrils, and shoots often curl, develop a shepherds crook, and eventually turn brown and die.
+    Young berries are highly susceptible to infection and are often covered with white fruiting structures of the fungus. Infected older berries of white cultivars may turn dull gray-green, whereas those of black cultivars turn pinkish red</string>
+    <string name="grape_leaf_blight_isariopsis_leaf_spot_Treatment"> Treatment:
+•  Use certified disease-free seed or treat your own seed.
+•	Soak seeds in a 10% solution of trisodium phosphate (Na3PO4) for at least 15 minutes.
+•	Or heat dry seeds to 158 °F and hold them at that temperature for two to four days.
+•  Purchase transplants only from reputable sources. Ask about the sanitation procedures they use to prevent disease.
+•  Inspect transplants prior to purchase. Choose only transplants showing no clear symptoms.
+•  Avoid planting in fields where tomato root debris is present, as the virus can survive long-term in roots.
+•  Wash hands with soap and water before and during the handling of plants to reduce potential spread between plants.</string>
+
 </resources>

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "H:\\MAD_Project\\TensorFlowLiteInceptionTutorial-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "G:\\Android\\gradle\\.gradle\\caches\\transforms-1\\files-1.1\\android-crop-1.0.1.aar\\d5d1d41801ab08ed17c7ea0ec8d98d14\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "171",
+                        "endColumns": "47",
+                        "endOffsets": "214"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endColumns": "47",
+                        "endOffsets": "307"
+                    }
+                },
+                {
+                    "source": "G:\\Android\\gradle\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\821d5eba5c366b5022ce77cf81ce4dab\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                }
+            ]
+        }
+    ]
+}

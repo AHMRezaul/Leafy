@@ -1,0 +1,4 @@
+#Tue Oct 15 02:19:23 BDT 2019
+base.0=H\:\\MAD_Project\\TensorFlowLiteInceptionTutorial-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

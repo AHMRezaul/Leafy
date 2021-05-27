@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:visibility="visible"
+    android:background="@drawable/bg1"
+    android:gravity="center_horizontal"
+    tools:context=".ChooseModel"
+    tools:visibility="visible">
+
+    <ImageView
+        android:layout_margin="20dp"
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/logo1" />
+
+
+    <Button
+        android:id="@+id/inception_float"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"
+        android:layout_margin="20dp"
+        android:text="Take Picture" />
+
+    <Button
+        android:id="@+id/gallery"
+        android:layout_width="154dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_background"
+        android:layout_margin="20dp"
+        android:text="Choose from Gallery" />
+
+
+    <Button
+        android:id="@+id/AboutButton"
+        android:layout_width="154dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/button_background"
+        android:text="About" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_gravity="end"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:text="SNAPLEAF"
+        android:fontFamily="@font/roboto_black"
+        android:textColor="#ffffff"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content">
+
+    </TextView>
+
+
+
+
+</LinearLayout>
