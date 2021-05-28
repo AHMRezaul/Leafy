@@ -1,21 +1,19 @@
-# TensorFlowLiteInceptionTutorial
-## By: Michael Shea
-Tutorial on how to deploy the Inception Model to Android using TensorFlow Lite (both the float version and the quantized version).
+# SnapLeaf
+An android application that can identify different leaf disease of plants from the picture of the diseased plant's leaf.
 
-DEMO:
+## Technical details:
+<ul>
+ <li>Created a Machine Learning model with the help of Inception V3 (TensorFlow lite) for the detection of diseases of various leaves. </li>
+ <li>The model was loaded as an asset in the mobile application.</li>
+ <li>The symptoms of different diseases were collected from various reliable sources which are displayed as the diseases are detected.</li>
+ <li>Its possible to both capture the picture with the application or load the picture from the gallery.</li>
+ <li>It can detect upto 30 different leaf diseases with an accuracy rate of about 80%.</li>
+</ul>
 
-<img src="demo.gif" width="300">
+## Screenshots:
 
-## BUILD/INSTALLATION INSTRUCTIONS
-  * Clone repo locally, then open and build project in Android Studio.
-  
-## MIT License
-Copyright 2019 Michael Shea
+<img src="https://github.com/AHMRezaul/Leafy/blob/main/Screenshot_2021-05-28-13-56-58-541_com.soumio.inceptiontutorial.jpg" width="300" height="600"/>
+<img src="https://github.com/AHMRezaul/Leafy/blob/main/Screenshot_2021-05-28-13-59-38-447_com.soumio.inceptiontutorial.jpg" width+"300" height="600"/>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
+## Download App:
+You can download the android application from here : https://github.com/AHMRezaul/Leafy/blob/main/app/build/outputs/apk/debug/app-debug.apk (90MB approx.)
